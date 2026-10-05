@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="720" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#10202A"/>
+      <stop offset="1" stop-color="#0B1119"/>
+    </linearGradient>
+    <linearGradient id="green" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#39D6A0"/>
+      <stop offset="1" stop-color="#148A70"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="720" rx="28" fill="url(#bg)"/>
+  <rect x="48" y="42" width="1184" height="76" rx="18" fill="#121D27" stroke="#253541"/>
+  <circle cx="91" cy="80" r="20" fill="url(#green)"/>
+  <path d="M82 80h18M91 71v18" stroke="#062019" stroke-width="4" stroke-linecap="round"/>
+  <text x="124" y="88" fill="#F1F7F5" font-family="Arial,sans-serif" font-size="25" font-weight="700">ORDERFLOW</text>
+  <text x="1040" y="85" fill="#95A9AD" font-family="Arial,sans-serif" font-size="18">RESTAURANT AI</text>
+  <rect x="48" y="148" width="390" height="524" rx="24" fill="#101B24" stroke="#293B45" stroke-width="2"/>
+  <rect x="73" y="174" width="340" height="62" rx="16" fill="#17342F"/>
+  <circle cx="104" cy="205" r="18" fill="#28C891"/>
+  <path d="M96 207c3-8 12-10 17-5l-3 5-5-2-4 4 2 5-5 2c-5-4-6-10-2-14Z" fill="#09251D"/>
+  <text x="137" y="202" fill="#ECF7F3" font-family="Arial,sans-serif" font-size="19" font-weight="700">WhatsApp order</text>
+  <text x="137" y="222" fill="#83A49A" font-family="Arial,sans-serif" font-size="14">Customer conversation</text>
+  <text x="78" y="278" fill="#72878E" font-family="Arial,sans-serif" font-size="15">TODAY · 12:42 PM</text>
+  <rect x="76" y="298" width="288" height="75" rx="16" fill="#1A2931"/>
+  <text x="96" y="328" fill="#DDE9E8" font-family="Arial,sans-serif" font-size="17">Can I get a veggie burger</text>
+  <text x="96" y="353" fill="#DDE9E8" font-family="Arial,sans-serif" font-size="17">and sparkling water?</text>
+  <rect x="135" y="393" width="273" height="104" rx="16" fill="#125A47"/>
+  <text x="154" y="423" fill="#E9FFF7" font-family="Arial,sans-serif" font-size="17">Absolutely! Your order is</text>
+  <text x="154" y="449" fill="#E9FFF7" font-family="Arial,sans-serif" font-size="17">ready for confirmation:</text>
+  <text x="154" y="478" fill="#A5F0D2" font-family="Arial,sans-serif" font-size="15">2 items · $18.50</text>
+  <rect x="76" y="622" width="335" height="30" rx="15" fill="#1A2931"/>
+  <text x="96" y="643" fill="#748890" font-family="Arial,sans-serif" font-size="14">AI assistant active</text>
+  <circle cx="388" cy="637" r="6" fill="#39D6A0"/>
+  <text x="486" y="188" fill="#F1F7F5" font-family="Arial,sans-serif" font-size="30" font-weight="700">Live order operations</text>
+  <text x="486" y="218" fill="#82959D" font-family="Arial,sans-serif" font-size="17">AI-powered ordering connected to the POS</text>
+  <rect x="486" y="250" width="222" height="112" rx="18" fill="#121E28" stroke="#263743"/>
+  <text x="510" y="285" fill="#899CA3" font-family="Arial,sans-serif" font-size="16">ORDERS TODAY</text>
+  <text x="510" y="339" fill="#F4F8F8" font-family="Arial,sans-serif" font-size="42" font-weight="700">128</text>
+  <rect x="726" y="250" width="222" height="112" rx="18" fill="#121E28" stroke="#263743"/>
+  <text x="750" y="285" fill="#899CA3" font-family="Arial,sans-serif" font-size="16">AVG. PREP TIME</text>
+  <text x="750" y="339" fill="#F4F8F8" font-family="Arial,sans-serif" font-size="42" font-weight="700">14<tspan font-size="22"> min</tspan></text>
+  <rect x="966" y="250" width="266" height="112" rx="18" fill="#121E28" stroke="#263743"/>
+  <text x="990" y="285" fill="#899CA3" font-family="Arial,sans-serif" font-size="16">AI-RESOLVED</text>
+  <text x="990" y="339" fill="#39D6A0" font-family="Arial,sans-serif" font-size="42" font-weight="700">86%</text>
+  <rect x="486" y="384" width="746" height="288" rx="18" fill="#111C25" stroke="#263743"/>
+  <text x="514" y="424" fill="#EAF1F2" font-family="Arial,sans-serif" font-size="21" font-weight="700">Recent orders</text>
+  <text x="514" y="468" fill="#7F929A" font-family="Arial,sans-serif" font-size="15">ORDER</text>
+  <text x="696" y="468" fill="#7F929A" font-family="Arial,sans-serif" font-size="15">CHANNEL</text>
+  <text x="881" y="468" fill="#7F929A" font-family="Arial,sans-serif" font-size="15">TOTAL</text>
+  <text x="1060" y="468" fill="#7F929A" font-family="Arial,sans-serif" font-size="15">STATUS</text>
+  <path d="M514 484h680M514 538h680M514 592h680" stroke="#26343D"/>
+  <text x="514" y="520" fill="#DCE6E7" font-family="Arial,sans-serif" font-size="17">#1048</text>
+  <text x="696" y="520" fill="#DCE6E7" font-family="Arial,sans-serif" font-size="17">WhatsApp</text>
+  <text x="881" y="520" fill="#DCE6E7" font-family="Arial,sans-serif" font-size="17">$18.50</text>
+  <rect x="1058" y="499" width="96" height="28" rx="14" fill="#173E34"/>
+  <text x="1075" y="519" fill="#66DDB1" font-family="Arial,sans-serif" font-size="14">Confirmed</text>
+  <text x="514" y="574" fill="#DCE6E7" font-family="Arial,sans-serif" font-size="17">#1047</text>
+  <text x="696" y="574" fill="#DCE6E7" font-family="Arial,sans-serif" font-size="17">Web</text>
+  <text x="881" y="574" fill="#DCE6E7" font-family="Arial,sans-serif" font-size="17">$32.00</text>
+  <rect x="1058" y="553" width="96" height="28" rx="14" fill="#3D3321"/>
+  <text x="1082" y="573" fill="#F3C66B" font-family="Arial,sans-serif" font-size="14">Preparing</text>
+  <text x="514" y="628" fill="#DCE6E7" font-family="Arial,sans-serif" font-size="17">#1046</text>
+  <text x="696" y="628" fill="#DCE6E7" font-family="Arial,sans-serif" font-size="17">WhatsApp</text>
+  <text x="881" y="628" fill="#DCE6E7" font-family="Arial,sans-serif" font-size="17">$24.75</text>
+  <rect x="1058" y="607" width="96" height="28" rx="14" fill="#173E34"/>
+  <text x="1075" y="627" fill="#66DDB1" font-family="Arial,sans-serif" font-size="14">Confirmed</text>
+</svg>

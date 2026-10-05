@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="720" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#191B24"/>
+      <stop offset="1" stop-color="#10131B"/>
+    </linearGradient>
+    <linearGradient id="orange" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#FFBC72"/>
+      <stop offset="1" stop-color="#F18B4F"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="720" rx="28" fill="url(#bg)"/>
+  <rect x="40" y="38" width="1200" height="70" rx="16" fill="#1C2029" stroke="#333945"/>
+  <rect x="64" y="57" width="34" height="34" rx="10" fill="url(#orange)"/>
+  <path d="M73 81V67m8 14V62m8 19V72" stroke="#2B211A" stroke-width="3" stroke-linecap="round"/>
+  <text x="112" y="83" fill="#F4F3EF" font-family="Arial,sans-serif" font-size="22" font-weight="700">REVENUE LENS</text>
+  <text x="1029" y="80" fill="#959AA4" font-family="Arial,sans-serif" font-size="15">AI SALES INTELLIGENCE</text>
+  <text x="60" y="166" fill="#F3F2EE" font-family="Arial,sans-serif" font-size="29" font-weight="700">Sales performance</text>
+  <text x="60" y="194" fill="#8E949F" font-family="Arial,sans-serif" font-size="16">Forecasts and pipeline insights in one place</text>
+  <rect x="1036" y="139" width="176" height="40" rx="11" fill="#252A34" stroke="#404754"/>
+  <text x="1056" y="165" fill="#CFD1D5" font-family="Arial,sans-serif" font-size="15">Last 30 days</text>
+  <path d="m1181 154 6 6 6-6" stroke="#9DA3AD" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="60" y="221" width="264" height="111" rx="16" fill="#1D222B" stroke="#343B46"/>
+  <text x="84" y="256" fill="#9299A3" font-family="Arial,sans-serif" font-size="15">REVENUE</text>
+  <text x="84" y="304" fill="#F1F1EF" font-family="Arial,sans-serif" font-size="35" font-weight="700">$482K</text>
+  <text x="221" y="302" fill="#69D1A8" font-family="Arial,sans-serif" font-size="14">+12.4%</text>
+  <rect x="340" y="221" width="264" height="111" rx="16" fill="#1D222B" stroke="#343B46"/>
+  <text x="364" y="256" fill="#9299A3" font-family="Arial,sans-serif" font-size="15">QUALIFIED PIPELINE</text>
+  <text x="364" y="304" fill="#F1F1EF" font-family="Arial,sans-serif" font-size="35" font-weight="700">$1.26M</text>
+  <rect x="620" y="221" width="264" height="111" rx="16" fill="#1D222B" stroke="#343B46"/>
+  <text x="644" y="256" fill="#9299A3" font-family="Arial,sans-serif" font-size="15">WIN RATE</text>
+  <text x="644" y="304" fill="#F1F1EF" font-family="Arial,sans-serif" font-size="35" font-weight="700">34.8%</text>
+  <rect x="900" y="221" width="312" height="111" rx="16" fill="#1D222B" stroke="#343B46"/>
+  <text x="924" y="256" fill="#9299A3" font-family="Arial,sans-serif" font-size="15">AI FORECAST</text>
+  <text x="924" y="304" fill="#F4B36F" font-family="Arial,sans-serif" font-size="35" font-weight="700">$536K</text>
+  <rect x="60" y="354" width="736" height="328" rx="18" fill="#1B2029" stroke="#343B46"/>
+  <text x="86" y="394" fill="#E8E8E5" font-family="Arial,sans-serif" font-size="20" font-weight="700">Revenue trend &amp; forecast</text>
+  <rect x="560" y="374" width="12" height="12" rx="6" fill="#F3A45F"/>
+  <text x="580" y="386" fill="#A5A9AF" font-family="Arial,sans-serif" font-size="13">Actual</text>
+  <path d="M650 380h18" stroke="#E9BA77" stroke-width="3" stroke-dasharray="5 4"/>
+  <text x="676" y="386" fill="#A5A9AF" font-family="Arial,sans-serif" font-size="13">Forecast</text>
+  <path d="M110 605h626M110 553h626M110 501h626M110 449h626" stroke="#303741"/>
+  <path d="M130 564 218 538l88 19 88-52 88 22 88-54 88 8" stroke="#F3A45F" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M570 473c45-11 76-37 122-32s63-7 94-26" stroke="#E9BA77" stroke-width="4" stroke-linecap="round" stroke-dasharray="9 9"/>
+  <circle cx="482" cy="527" r="6" fill="#F3A45F"/>
+  <circle cx="570" cy="473" r="6" fill="#F3A45F"/>
+  <text x="122" y="639" fill="#7F8792" font-family="Arial,sans-serif" font-size="13">WEEK 1</text>
+  <text x="264" y="639" fill="#7F8792" font-family="Arial,sans-serif" font-size="13">WEEK 2</text>
+  <text x="406" y="639" fill="#7F8792" font-family="Arial,sans-serif" font-size="13">WEEK 3</text>
+  <text x="548" y="639" fill="#7F8792" font-family="Arial,sans-serif" font-size="13">WEEK 4</text>
+  <text x="676" y="639" fill="#7F8792" font-family="Arial,sans-serif" font-size="13">NEXT</text>
+  <rect x="814" y="354" width="398" height="328" rx="18" fill="#1B2029" stroke="#343B46"/>
+  <text x="840" y="394" fill="#E8E8E5" font-family="Arial,sans-serif" font-size="20" font-weight="700">Pipeline health</text>
+  <text x="840" y="429" fill="#838B96" font-family="Arial,sans-serif" font-size="14">OPPORTUNITY STAGE</text>
+  <text x="1112" y="429" fill="#838B96" font-family="Arial,sans-serif" font-size="14">VALUE</text>
+  <path d="M840 445h346M840 501h346M840 557h346M840 613h346" stroke="#343B46"/>
+  <circle cx="852" cy="473" r="6" fill="#6DB9DB"/>
+  <text x="872" y="479" fill="#CFD3D8" font-family="Arial,sans-serif" font-size="15">Discovery</text>
+  <text x="1112" y="479" fill="#E5E6E5" font-family="Arial,sans-serif" font-size="15">$420K</text>
+  <circle cx="852" cy="529" r="6" fill="#9D91E8"/>
+  <text x="872" y="535" fill="#CFD3D8" font-family="Arial,sans-serif" font-size="15">Evaluation</text>
+  <text x="1112" y="535" fill="#E5E6E5" font-family="Arial,sans-serif" font-size="15">$315K</text>
+  <circle cx="852" cy="585" r="6" fill="#F3A45F"/>
+  <text x="872" y="591" fill="#CFD3D8" font-family="Arial,sans-serif" font-size="15">Negotiation</text>
+  <text x="1112" y="591" fill="#E5E6E5" font-family="Arial,sans-serif" font-size="15">$208K</text>
+  <circle cx="852" cy="641" r="6" fill="#69D1A8"/>
+  <text x="872" y="647" fill="#CFD3D8" font-family="Arial,sans-serif" font-size="15">Closed won</text>
+  <text x="1112" y="647" fill="#E5E6E5" font-family="Arial,sans-serif" font-size="15">$164K</text>
+</svg>

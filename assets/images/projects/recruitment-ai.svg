@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="720" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#17172B"/>
+      <stop offset="1" stop-color="#10111D"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#B18BFF"/>
+      <stop offset="1" stop-color="#7558EA"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="720" rx="28" fill="url(#bg)"/>
+  <rect x="42" y="38" width="1196" height="72" rx="16" fill="#1C1C32" stroke="#35344C"/>
+  <rect x="68" y="58" width="32" height="32" rx="10" fill="url(#accent)"/>
+  <path d="M77 82V67h5v5h6v-5h5v15h-5v-6h-6v6h-5Z" fill="white"/>
+  <text x="115" y="84" fill="#F7F3FF" font-family="Arial,sans-serif" font-size="22" font-weight="700">TALENT SIGNAL</text>
+  <text x="955" y="81" fill="#9C9BB4" font-family="Arial,sans-serif" font-size="16">AI RECRUITMENT WORKSPACE</text>
+  <rect x="42" y="132" width="224" height="550" rx="18" fill="#19192D" stroke="#33334A"/>
+  <rect x="61" y="157" width="186" height="42" rx="11" fill="#302849"/>
+  <rect x="76" y="171" width="14" height="14" rx="4" fill="#B08BFF"/>
+  <text x="104" y="185" fill="#E9DCFF" font-family="Arial,sans-serif" font-size="16">Overview</text>
+  <circle cx="83" cy="230" r="8" stroke="#9291AA" stroke-width="2"/>
+  <text x="104" y="236" fill="#AAA9BE" font-family="Arial,sans-serif" font-size="16">Open roles</text>
+  <path d="M75 269h16m-16 7h16m-16 7h11" stroke="#9291AA" stroke-width="2" stroke-linecap="round"/>
+  <text x="104" y="282" fill="#AAA9BE" font-family="Arial,sans-serif" font-size="16">Candidates</text>
+  <rect x="75" y="315" width="16" height="16" rx="4" stroke="#9291AA" stroke-width="2"/>
+  <text x="104" y="329" fill="#AAA9BE" font-family="Arial,sans-serif" font-size="16">Interviews</text>
+  <text x="300" y="174" fill="#F6F3FC" font-family="Arial,sans-serif" font-size="30" font-weight="700">Candidate intelligence</text>
+  <text x="300" y="202" fill="#9A98AE" font-family="Arial,sans-serif" font-size="16">Shortlist with explainable AI matching</text>
+  <rect x="1034" y="148" width="176" height="42" rx="12" fill="#302849" stroke="#57477A"/>
+  <text x="1055" y="175" fill="#D7C6FF" font-family="Arial,sans-serif" font-size="15">Senior ML Engineer</text>
+  <rect x="300" y="228" width="276" height="100" rx="16" fill="#201F35" stroke="#38374F"/>
+  <text x="322" y="259" fill="#9694AA" font-family="Arial,sans-serif" font-size="15">MATCHED CANDIDATES</text>
+  <text x="322" y="309" fill="#F3F0FA" font-family="Arial,sans-serif" font-size="35" font-weight="700">48</text>
+  <rect x="592" y="228" width="276" height="100" rx="16" fill="#201F35" stroke="#38374F"/>
+  <text x="614" y="259" fill="#9694AA" font-family="Arial,sans-serif" font-size="15">READY FOR REVIEW</text>
+  <text x="614" y="309" fill="#F3F0FA" font-family="Arial,sans-serif" font-size="35" font-weight="700">12</text>
+  <rect x="884" y="228" width="326" height="100" rx="16" fill="#201F35" stroke="#38374F"/>
+  <text x="906" y="259" fill="#9694AA" font-family="Arial,sans-serif" font-size="15">AVERAGE SKILL MATCH</text>
+  <text x="906" y="309" fill="#76DCB7" font-family="Arial,sans-serif" font-size="35" font-weight="700">87%</text>
+  <rect x="300" y="352" width="910" height="330" rx="18" fill="#1A1A2D" stroke="#343349"/>
+  <text x="326" y="392" fill="#E9E6F1" font-family="Arial,sans-serif" font-size="20" font-weight="700">Recommended candidates</text>
+  <text x="326" y="431" fill="#85849C" font-family="Arial,sans-serif" font-size="14">CANDIDATE</text>
+  <text x="577" y="431" fill="#85849C" font-family="Arial,sans-serif" font-size="14">ROLE FIT</text>
+  <text x="786" y="431" fill="#85849C" font-family="Arial,sans-serif" font-size="14">KEY SKILLS</text>
+  <text x="1080" y="431" fill="#85849C" font-family="Arial,sans-serif" font-size="14">AI MATCH</text>
+  <path d="M326 447h858M326 522h858M326 597h858" stroke="#343349"/>
+  <circle cx="353" cy="484" r="20" fill="#3D3656"/>
+  <text x="342" y="490" fill="#E6D9FF" font-family="Arial,sans-serif" font-size="16" font-weight="700">AM</text>
+  <text x="386" y="480" fill="#E9E6F1" font-family="Arial,sans-serif" font-size="16" font-weight="700">Alex Morgan</text>
+  <text x="386" y="501" fill="#9290A7" font-family="Arial,sans-serif" font-size="13">6 years · Applied AI</text>
+  <text x="577" y="487" fill="#CEC5E8" font-family="Arial,sans-serif" font-size="15">Senior ML Engineer</text>
+  <rect x="786" y="468" width="63" height="27" rx="13" fill="#302849"/>
+  <text x="799" y="486" fill="#D2BFFF" font-family="Arial,sans-serif" font-size="12">Python</text>
+  <rect x="856" y="468" width="57" height="27" rx="13" fill="#302849"/>
+  <text x="868" y="486" fill="#D2BFFF" font-family="Arial,sans-serif" font-size="12">LLMs</text>
+  <rect x="920" y="468" width="48" height="27" rx="13" fill="#302849"/>
+  <text x="931" y="486" fill="#D2BFFF" font-family="Arial,sans-serif" font-size="12">RAG</text>
+  <text x="1090" y="489" fill="#76DCB7" font-family="Arial,sans-serif" font-size="19" font-weight="700">94%</text>
+  <circle cx="353" cy="559" r="20" fill="#314354"/>
+  <text x="342" y="565" fill="#CAE6FF" font-family="Arial,sans-serif" font-size="16" font-weight="700">JL</text>
+  <text x="386" y="555" fill="#E9E6F1" font-family="Arial,sans-serif" font-size="16" font-weight="700">Jordan Lee</text>
+  <text x="386" y="576" fill="#9290A7" font-family="Arial,sans-serif" font-size="13">4 years · Data Science</text>
+  <text x="577" y="562" fill="#CEC5E8" font-family="Arial,sans-serif" font-size="15">Machine Learning Engineer</text>
+  <rect x="786" y="543" width="63" height="27" rx="13" fill="#302849"/>
+  <text x="799" y="561" fill="#D2BFFF" font-family="Arial,sans-serif" font-size="12">Python</text>
+  <rect x="856" y="543" width="68" height="27" rx="13" fill="#302849"/>
+  <text x="868" y="561" fill="#D2BFFF" font-family="Arial,sans-serif" font-size="12">MLOps</text>
+  <rect x="931" y="543" width="48" height="27" rx="13" fill="#302849"/>
+  <text x="942" y="561" fill="#D2BFFF" font-family="Arial,sans-serif" font-size="12">NLP</text>
+  <text x="1090" y="564" fill="#76DCB7" font-family="Arial,sans-serif" font-size="19" font-weight="700">89%</text>
+  <circle cx="353" cy="634" r="20" fill="#4B3D35"/>
+  <text x="342" y="640" fill="#FFE0BF" font-family="Arial,sans-serif" font-size="16" font-weight="700">SK</text>
+  <text x="386" y="630" fill="#E9E6F1" font-family="Arial,sans-serif" font-size="16" font-weight="700">Sam Kim</text>
+  <text x="386" y="651" fill="#9290A7" font-family="Arial,sans-serif" font-size="13">5 years · AI products</text>
+  <text x="577" y="637" fill="#CEC5E8" font-family="Arial,sans-serif" font-size="15">Applied AI Engineer</text>
+  <rect x="786" y="618" width="63" height="27" rx="13" fill="#302849"/>
+  <text x="799" y="636" fill="#D2BFFF" font-family="Arial,sans-serif" font-size="12">Python</text>
+  <rect x="856" y="618" width="57" height="27" rx="13" fill="#302849"/>
+  <text x="868" y="636" fill="#D2BFFF" font-family="Arial,sans-serif" font-size="12">LLMs</text>
+  <rect x="920" y="618" width="67" height="27" rx="13" fill="#302849"/>
+  <text x="931" y="636" fill="#D2BFFF" font-family="Arial,sans-serif" font-size="12">Azure AI</text>
+  <text x="1090" y="639" fill="#F4C978" font-family="Arial,sans-serif" font-size="19" font-weight="700">84%</text>
+</svg>

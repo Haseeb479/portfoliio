@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="100" viewBox="0 0 240 100" fill="none">
+  <path d="M36 27 54 61H18l18-34Z" fill="#009688"/>
+  <path d="m39 39-9 12h8l-2 8 9-13h-8l2-7Z" fill="#fff"/>
+  <text x="67" y="53" fill="#19212E" font-family="Arial, sans-serif" font-size="20" font-weight="700">FastAPI</text>
+</svg>

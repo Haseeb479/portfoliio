@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="720" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#111A2B"/>
+      <stop offset="1" stop-color="#0A101C"/>
+    </linearGradient>
+    <linearGradient id="violet" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#9D84FF"/>
+      <stop offset="1" stop-color="#6354D9"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="720" rx="28" fill="url(#bg)"/>
+  <rect x="38" y="38" width="1204" height="68" rx="16" fill="#151F30" stroke="#29354A"/>
+  <rect x="62" y="57" width="30" height="30" rx="9" fill="url(#violet)"/>
+  <path d="m69 78 8-15 8 15h-5l-3-6-3 6h-5Z" fill="white"/>
+  <text x="108" y="82" fill="#F2F3FB" font-family="Arial,sans-serif" font-size="22" font-weight="700">NORTHSTAR ERP</text>
+  <rect x="375" y="54" width="404" height="36" rx="18" fill="#0D1522" stroke="#303D52"/>
+  <circle cx="397" cy="72" r="7" stroke="#8190A7" stroke-width="2"/>
+  <path d="m402 77 6 6" stroke="#8190A7" stroke-width="2" stroke-linecap="round"/>
+  <text x="420" y="78" fill="#7E8CA1" font-family="Arial,sans-serif" font-size="15">Search orders, inventory, reports...</text>
+  <circle cx="1176" cy="72" r="19" fill="#27344A"/>
+  <text x="1164" y="78" fill="#D8DDF0" font-family="Arial,sans-serif" font-size="14" font-weight="700">HT</text>
+  <rect x="38" y="128" width="198" height="554" rx="18" fill="#111A29" stroke="#253147"/>
+  <rect x="56" y="154" width="162" height="42" rx="11" fill="#252443"/>
+  <rect x="70" y="168" width="14" height="14" rx="3" fill="#A493FF"/>
+  <text x="98" y="182" fill="#E6E1FF" font-family="Arial,sans-serif" font-size="16">Overview</text>
+  <circle cx="77" cy="227" r="8" stroke="#718098" stroke-width="2"/>
+  <text x="98" y="233" fill="#9AA7B9" font-family="Arial,sans-serif" font-size="16">Finance</text>
+  <rect x="69" y="258" width="16" height="16" rx="4" stroke="#718098" stroke-width="2"/>
+  <text x="98" y="273" fill="#9AA7B9" font-family="Arial,sans-serif" font-size="16">Inventory</text>
+  <path d="M70 312h16M70 320h16M70 328h11" stroke="#718098" stroke-width="2" stroke-linecap="round"/>
+  <text x="98" y="326" fill="#9AA7B9" font-family="Arial,sans-serif" font-size="16">Operations</text>
+  <circle cx="77" cy="371" r="8" stroke="#718098" stroke-width="2"/>
+  <path d="M77 367v8m-4-4h8" stroke="#718098" stroke-width="2" stroke-linecap="round"/>
+  <text x="98" y="377" fill="#9AA7B9" font-family="Arial,sans-serif" font-size="16">AI assistant</text>
+  <text x="270" y="174" fill="#F4F5FA" font-family="Arial,sans-serif" font-size="29" font-weight="700">Business overview</text>
+  <text x="270" y="202" fill="#8390A5" font-family="Arial,sans-serif" font-size="16">A clear view of operations, with answers grounded in your ERP data</text>
+  <rect x="270" y="226" width="218" height="112" rx="16" fill="#151F30" stroke="#2A374B"/>
+  <text x="292" y="261" fill="#8492A8" font-family="Arial,sans-serif" font-size="15">MONTHLY REVENUE</text>
+  <text x="292" y="310" fill="#F1F4FA" font-family="Arial,sans-serif" font-size="34" font-weight="700">$284.6K</text>
+  <rect x="504" y="226" width="218" height="112" rx="16" fill="#151F30" stroke="#2A374B"/>
+  <text x="526" y="261" fill="#8492A8" font-family="Arial,sans-serif" font-size="15">OPEN ORDERS</text>
+  <text x="526" y="310" fill="#F1F4FA" font-family="Arial,sans-serif" font-size="34" font-weight="700">142</text>
+  <rect x="738" y="226" width="218" height="112" rx="16" fill="#151F30" stroke="#2A374B"/>
+  <text x="760" y="261" fill="#8492A8" font-family="Arial,sans-serif" font-size="15">STOCK HEALTH</text>
+  <text x="760" y="310" fill="#75D7B2" font-family="Arial,sans-serif" font-size="34" font-weight="700">94%</text>
+  <rect x="270" y="360" width="686" height="322" rx="18" fill="#131D2C" stroke="#2A374B"/>
+  <text x="296" y="398" fill="#E7EBF3" font-family="Arial,sans-serif" font-size="20" font-weight="700">Revenue &amp; orders</text>
+  <text x="296" y="424" fill="#7E8CA1" font-family="Arial,sans-serif" font-size="14">Last 6 months</text>
+  <path d="M320 608h590M320 560h590M320 512h590M320 464h590" stroke="#273447"/>
+  <path d="M342 579c52-17 70-56 119-44s73 32 120 2 76-15 119-37 78-1 119-24 58-3 82-12" stroke="#9A82FF" stroke-width="5" stroke-linecap="round"/>
+  <path d="M342 596c46-4 75-24 119-16s77 2 120-19 78 4 119-14 78 7 119-10 61-2 82-17" stroke="#39BFD3" stroke-width="4" stroke-linecap="round" stroke-dasharray="8 10"/>
+  <text x="337" y="642" fill="#78879C" font-family="Arial,sans-serif" font-size="14">JAN</text>
+  <text x="453" y="642" fill="#78879C" font-family="Arial,sans-serif" font-size="14">FEB</text>
+  <text x="572" y="642" fill="#78879C" font-family="Arial,sans-serif" font-size="14">MAR</text>
+  <text x="691" y="642" fill="#78879C" font-family="Arial,sans-serif" font-size="14">APR</text>
+  <text x="810" y="642" fill="#78879C" font-family="Arial,sans-serif" font-size="14">MAY</text>
+  <rect x="978" y="128" width="264" height="554" rx="18" fill="#141D2C" stroke="#303448"/>
+  <circle cx="1009" cy="163" r="17" fill="#332C5D"/>
+  <path d="M1001 164h16m-12-6 8 6-8 6" stroke="#AB9AFF" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="1036" y="169" fill="#EEEAFE" font-family="Arial,sans-serif" font-size="18" font-weight="700">ERP copilot</text>
+  <text x="1000" y="216" fill="#9CA7B9" font-family="Arial,sans-serif" font-size="15">Ask a question about your</text>
+  <text x="1000" y="238" fill="#9CA7B9" font-family="Arial,sans-serif" font-size="15">business data.</text>
+  <rect x="997" y="259" width="226" height="72" rx="13" fill="#202A3B"/>
+  <text x="1013" y="287" fill="#D5DCE8" font-family="Arial,sans-serif" font-size="14">Which items need</text>
+  <text x="1013" y="309" fill="#D5DCE8" font-family="Arial,sans-serif" font-size="14">reordering this week?</text>
+  <rect x="997" y="347" width="226" height="178" rx="13" fill="#1C2635" stroke="#4B3D78"/>
+  <text x="1013" y="377" fill="#C3B6FF" font-family="Arial,sans-serif" font-size="14" font-weight="700">ANSWER · INVENTORY</text>
+  <text x="1013" y="410" fill="#DDE4ED" font-family="Arial,sans-serif" font-size="14">12 items are below the</text>
+  <text x="1013" y="432" fill="#DDE4ED" font-family="Arial,sans-serif" font-size="14">reorder threshold. Steel</text>
+  <text x="1013" y="454" fill="#DDE4ED" font-family="Arial,sans-serif" font-size="14">sheet and fasteners need</text>
+  <text x="1013" y="476" fill="#DDE4ED" font-family="Arial,sans-serif" font-size="14">attention first.</text>
+  <rect x="1013" y="492" width="105" height="22" rx="11" fill="#302A4D"/>
+  <text x="1026" y="508" fill="#B7A8FF" font-family="Arial,sans-serif" font-size="12">Inventory data</text>
+  <rect x="997" y="617" width="226" height="40" rx="12" fill="#0D1522" stroke="#344156"/>
+  <text x="1014" y="642" fill="#68778D" font-family="Arial,sans-serif" font-size="14">Ask the ERP copilot...</text>
+</svg>

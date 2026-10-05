@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="720" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#101D2D"/>
+      <stop offset="1" stop-color="#0B121E"/>
+    </linearGradient>
+    <linearGradient id="blue" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#57C9F2"/>
+      <stop offset="1" stop-color="#3976E8"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="720" rx="28" fill="url(#bg)"/>
+  <rect x="40" y="38" width="1200" height="70" rx="16" fill="#142133" stroke="#29394F"/>
+  <rect x="65" y="56" width="34" height="34" rx="10" fill="url(#blue)"/>
+  <path d="M75 64h14v18H75zM78 69h8m-8 5h8m-8 4h5" stroke="#08213B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="113" y="83" fill="#EDF6FC" font-family="Arial,sans-serif" font-size="22" font-weight="700">KNOWLEDGE STUDIO</text>
+  <text x="1044" y="80" fill="#8298AD" font-family="Arial,sans-serif" font-size="15">DOCUMENT INTELLIGENCE</text>
+  <rect x="40" y="130" width="272" height="552" rx="18" fill="#121E2D" stroke="#2A3A4F"/>
+  <text x="66" y="171" fill="#E5EDF4" font-family="Arial,sans-serif" font-size="20" font-weight="700">Knowledge base</text>
+  <text x="66" y="205" fill="#8A9CAE" font-family="Arial,sans-serif" font-size="14">COLLECTIONS</text>
+  <rect x="60" y="220" width="232" height="43" rx="10" fill="#1B3044"/>
+  <circle cx="82" cy="241" r="8" fill="#57C9F2"/>
+  <text x="101" y="247" fill="#DCEBF4" font-family="Arial,sans-serif" font-size="15">Product documents</text>
+  <circle cx="82" cy="287" r="8" fill="#738AA2"/>
+  <text x="101" y="293" fill="#A7B6C4" font-family="Arial,sans-serif" font-size="15">Policies &amp; guides</text>
+  <circle cx="82" cy="333" r="8" fill="#738AA2"/>
+  <text x="101" y="339" fill="#A7B6C4" font-family="Arial,sans-serif" font-size="15">Customer support</text>
+  <path d="M60 370h232" stroke="#29394B"/>
+  <text x="66" y="405" fill="#899CAE" font-family="Arial,sans-serif" font-size="14">INDEX STATUS</text>
+  <text x="66" y="446" fill="#DCE7F0" font-family="Arial,sans-serif" font-size="16">Documents indexed</text>
+  <text x="246" y="446" fill="#DCE7F0" font-family="Arial,sans-serif" font-size="16">248</text>
+  <text x="66" y="482" fill="#DCE7F0" font-family="Arial,sans-serif" font-size="16">Chunks embedded</text>
+  <text x="235" y="482" fill="#DCE7F0" font-family="Arial,sans-serif" font-size="16">12.4k</text>
+  <rect x="61" y="522" width="230" height="112" rx="14" fill="#17283A" stroke="#2F4D67"/>
+  <circle cx="86" cy="551" r="11" stroke="#57C9F2" stroke-width="2"/>
+  <path d="m81 551 4 4 7-8" stroke="#57C9F2" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="108" y="556" fill="#D8EAF5" font-family="Arial,sans-serif" font-size="15" font-weight="700">Search is ready</text>
+  <text x="78" y="591" fill="#91A6B7" font-family="Arial,sans-serif" font-size="13">Hybrid retrieval enabled</text>
+  <text x="78" y="613" fill="#91A6B7" font-family="Arial,sans-serif" font-size="13">Semantic + keyword</text>
+  <text x="348" y="166" fill="#F0F5F9" font-family="Arial,sans-serif" font-size="28" font-weight="700">Ask your documents</text>
+  <text x="348" y="194" fill="#8799AA" font-family="Arial,sans-serif" font-size="16">Answers grounded in indexed knowledge, with source citations</text>
+  <rect x="348" y="220" width="884" height="62" rx="15" fill="#141F2E" stroke="#34475E"/>
+  <circle cx="377" cy="250" r="9" stroke="#7E94A9" stroke-width="2"/>
+  <path d="m384 257 6 6" stroke="#7E94A9" stroke-width="2" stroke-linecap="round"/>
+  <text x="407" y="256" fill="#A8B7C5" font-family="Arial,sans-serif" font-size="17">How do I configure single sign-on?</text>
+  <rect x="1181" y="232" width="36" height="36" rx="10" fill="#347FC2"/>
+  <path d="m1192 250 7-7m-7 7 7 7" stroke="white" stroke-width="2" stroke-linecap="round"/>
+  <rect x="348" y="302" width="884" height="205" rx="18" fill="#131E2D" stroke="#2B3C50"/>
+  <circle cx="382" cy="338" r="14" fill="#17496A"/>
+  <path d="M375 338h14m-7-7v14" stroke="#70D5F8" stroke-width="2" stroke-linecap="round"/>
+  <text x="409" y="344" fill="#71D0F0" font-family="Arial,sans-serif" font-size="14" font-weight="700">KNOWLEDGE ASSISTANT</text>
+  <text x="380" y="386" fill="#E1EAF1" font-family="Arial,sans-serif" font-size="17">To configure single sign-on, add your identity provider in Admin Settings</text>
+  <text x="380" y="414" fill="#E1EAF1" font-family="Arial,sans-serif" font-size="17">and map the required user attributes. Then test with a pilot account</text>
+  <text x="380" y="442" fill="#E1EAF1" font-family="Arial,sans-serif" font-size="17">before enabling SSO for your organization.</text>
+  <rect x="380" y="461" width="166" height="27" rx="13" fill="#183448"/>
+  <text x="395" y="480" fill="#79D4F1" font-family="Arial,sans-serif" font-size="13">3 sources referenced</text>
+  <text x="348" y="547" fill="#E0E9F0" font-family="Arial,sans-serif" font-size="19" font-weight="700">Sources</text>
+  <rect x="348" y="563" width="278" height="103" rx="14" fill="#131E2D" stroke="#2B3C50"/>
+  <rect x="366" y="580" width="28" height="34" rx="5" fill="#244A68"/>
+  <path d="M373 589h14m-14 6h14m-14 6h10" stroke="#8ADCF4" stroke-width="2" stroke-linecap="round"/>
+  <text x="407" y="592" fill="#DCE6EE" font-family="Arial,sans-serif" font-size="14" font-weight="700">SSO_setup_guide.pdf</text>
+  <text x="407" y="616" fill="#8FA3B4" font-family="Arial,sans-serif" font-size="13">Page 8 · Identity providers</text>
+  <text x="366" y="649" fill="#6DC8E9" font-family="Arial,sans-serif" font-size="12">RELEVANCE 0.96</text>
+  <rect x="640" y="563" width="278" height="103" rx="14" fill="#131E2D" stroke="#2B3C50"/>
+  <rect x="658" y="580" width="28" height="34" rx="5" fill="#244A68"/>
+  <path d="M665 589h14m-14 6h14m-14 6h10" stroke="#8ADCF4" stroke-width="2" stroke-linecap="round"/>
+  <text x="699" y="592" fill="#DCE6EE" font-family="Arial,sans-serif" font-size="14" font-weight="700">admin_handbook.pdf</text>
+  <text x="699" y="616" fill="#8FA3B4" font-family="Arial,sans-serif" font-size="13">Page 21 · Access control</text>
+  <text x="658" y="649" fill="#6DC8E9" font-family="Arial,sans-serif" font-size="12">RELEVANCE 0.89</text>
+  <rect x="932" y="563" width="300" height="103" rx="14" fill="#131E2D" stroke="#2B3C50"/>
+  <rect x="950" y="580" width="28" height="34" rx="5" fill="#244A68"/>
+  <path d="M957 589h14m-14 6h14m-14 6h10" stroke="#8ADCF4" stroke-width="2" stroke-linecap="round"/>
+  <text x="991" y="592" fill="#DCE6EE" font-family="Arial,sans-serif" font-size="14" font-weight="700">security_policy.pdf</text>
+  <text x="991" y="616" fill="#8FA3B4" font-family="Arial,sans-serif" font-size="13">Section 4 · Authentication</text>
+  <text x="950" y="649" fill="#6DC8E9" font-family="Arial,sans-serif" font-size="12">RELEVANCE 0.84</text>
+</svg>
